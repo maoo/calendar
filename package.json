@@ -23,7 +23,7 @@
     "@fullcalendar/interaction": "^6.1.8",
     "@fullcalendar/react": "^6.1.8",
     "@fullcalendar/timegrid": "^6.1.8",
-    "html-react-parser": "^4.2.2",
+    "html-react-parser": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
